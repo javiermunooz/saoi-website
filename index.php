@@ -52,12 +52,11 @@ https://templatemo.com/tm-543-breezed
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="index.html" class="logo">
-                            SAOI
+                            .BREEZED
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-							
                             <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
                             <li class="scroll-to-section"><a href="#about">About</a></li>
                             <li class="scroll-to-section"><a href="#branches">Projects</a></li>
@@ -163,25 +162,25 @@ https://templatemo.com/tm-543-breezed
                         <div class="row">
                             <div class="col-md-6 col-sm-6">
                                 <div class="service-item">
-                                    <img src="assets/images/logo.png" alt="">
+                                    <img src="assets/images/service-item-01.png" alt="">
                                     <h4>Highest Quality</h4>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-6">
                                 <div class="service-item">
-                                    <img src="assets/images/logo.png" alt="">
+                                    <img src="assets/images/service-item-01.png" alt="">
                                     <h4>Cutting-Edge AI</h4>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-6">
                                 <div class="service-item">
-                                    <img src="assets/images/logo.png" alt="">
+                                    <img src="assets/images/contact-info-03.png" alt="">
                                     <h4>Versatility</h4>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-6">
                                 <div class="service-item">
-                                    <img src="assets/images/logo.png" alt="">
+                                    <img src="assets/images/contact-info-03.png" alt="">
                                     <h4>Up-to-date</h4>
                                 </div>
                             </div>
@@ -305,7 +304,7 @@ https://templatemo.com/tm-543-breezed
 					<div class="col-lg-8 col-md-12 col-sm-24 col-xs-24" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
 						<div class="features-item">
 							<div class="features-icon">
-								<img src="assets/images/logo.png" alt="">
+								<img src="assets/images/features-icon-1.png" alt="">
 							</div>
 							<div class="features-content">
 								<h4>Artificial Intelligence</h4>
@@ -322,7 +321,7 @@ https://templatemo.com/tm-543-breezed
 					<div class="col-lg-8 col-md-12 col-sm-24 col-xs-24" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
 						<div class="features-item">
 							<div class="features-icon">
-								<img src="assets/images/logo.png" alt="">
+								<img src="assets/images/features-icon-1.png" alt="">
 							</div>
 							<div class="features-content">
 								<h4>Desktop & Mobile Apps</h4>
@@ -339,7 +338,7 @@ https://templatemo.com/tm-543-breezed
 					<div class="col-lg-8 col-md-12 col-sm-24 col-xs-24" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
 						<div class="features-item">
 							<div class="features-icon">
-								<img src="assets/images/logo.png" alt="">
+								<img src="assets/images/features-icon-1.png" alt="">
 							</div>
 							<div class="features-content">
 								<h4>Big Data</h4>
@@ -356,7 +355,7 @@ https://templatemo.com/tm-543-breezed
 					<div class="col-lg-8 col-md-12 col-sm-24 col-xs-24" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
 						<div class="features-item">
 							<div class="features-icon">
-								<img src="assets/images/logo.png" alt="">
+								<img src="assets/images/features-icon-1.png" alt="">
 							</div>
 							<div class="features-content">
 								<h4>Web Development</h4>
@@ -601,8 +600,8 @@ https://templatemo.com/tm-543-breezed
                             <h2>Get in touch with us!</h2>
                         </div>
                         <ul class="contact-info">
-                            <li><img src="assets/images/contact-info-01.png" alt="Phone Number">0034 605336687</li>
-                            <li><img src="assets/images/contact-info-02.png" alt="Email">info@saoi.tech</li>
+                            <li><img src="assets/images/contact-info-01.png" alt="Phone Number">0034 60533687</li>
+                            <li><img src="assets/images/contact-info-02.png" alt="Email">info@saoi.com</li>
                             <li><img src="assets/images/contact-info-03.png" alt="Website">www.saoi.tech</li>
                         </ul>
                     </div>
