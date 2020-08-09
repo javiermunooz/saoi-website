@@ -12,8 +12,12 @@ $message = $_POST["message"];
 $message = "From: " . $name . "\nEmail: " . $email . "\nphone: " . $phone . "\n" . $message
 $to = "fjavier97vall@gmail.com"
 
-//Send email
-$retval = mail ($to,$subject,$message);
+if(!empty($name) and !empty($phone) and !empty($email)){
+	//Send email
+	$retval = mail ($to,$subject,$message);
+}else{
+	echo "Please fill all fields";
+}
 
 //Check server reply   
 if( $retval == true ) {
