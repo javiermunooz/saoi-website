@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.saoi.tech/sitemap.xml
